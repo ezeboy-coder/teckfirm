@@ -53,8 +53,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Navbar$
 ;
 ;
 const metadata = {
-    title: "Use Airlin – Smart Airline Recommendations",
-    description: "Use Airlin helps you choose the best airline with data-driven recommendations, comparisons, and insights.",
+    title: "TeckFirm – Comprehensive Technology Solutions",
+    description: "TeckFirm offers cutting-edge web development, mobile development, cloud solutions, and comprehensive technology services to transform your business.",
     icons: [
         {
             rel: "icon",

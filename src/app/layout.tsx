@@ -6,8 +6,8 @@ import { type Metadata } from "next";
 import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Use Airlin – Smart Airline Recommendations",
-  description: "Use Airlin helps you choose the best airline with data-driven recommendations, comparisons, and insights.",
+  title: "TeckFirm – Comprehensive Technology Solutions",
+  description: "TeckFirm offers cutting-edge web development, mobile development, cloud solutions, and comprehensive technology services to transform your business.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 

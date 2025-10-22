@@ -13,7 +13,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="text-2xl font-bold text-blue-600">
-            Use Airlin
+            TeckFirm
           </Link>
 
           <div className="hidden lg:flex space-x-8">
@@ -21,7 +21,7 @@ export default function Navbar() {
               href="/solutions"
               className="text-gray-600 hover:text-blue-600 transition-colors"
             >
-              Recommendations
+              Services
             </Link>
             <Link
               href="/blog"
@@ -33,7 +33,7 @@ export default function Navbar() {
               href="/pricing"
               className="text-gray-600 hover:text-blue-600 transition-colors"
             >
-              Plans
+              Pricing
             </Link>
             <Link
               href="/about"
@@ -57,10 +57,10 @@ export default function Navbar() {
               Login
             </Link>
             <Link
-              href="/register"
+              href="/contact"
               className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
             >
-              Find Best Airline
+              Get Started
             </Link>
           </div>
 
@@ -85,7 +85,7 @@ export default function Navbar() {
               href="/solutions"
               className="block text-gray-600 hover:text-blue-600"
             >
-              Recommendations
+              Services
             </Link>
             <Link
               href="/blog"
@@ -97,7 +97,7 @@ export default function Navbar() {
               href="/pricing"
               className="block text-gray-600 hover:text-blue-600"
             >
-              Plans
+              Pricing
             </Link>
             <Link
               href="/about"
@@ -118,10 +118,10 @@ export default function Navbar() {
               Login
             </Link>
             <Link
-              href="/register"
+              href="/contact"
               className="block text-gray-600 hover:text-blue-600"
             >
-              Find Best Airline
+              Get Started
             </Link>
           </div>
         </motion.div>
