@@ -39,7 +39,7 @@ export default function ContactPage() {
     {
       icon: <Mail className="h-6 w-6" />,
       title: "Email",
-      details: "hello@teckfirm.org",
+      details: "management@teckfirm.org",
       description: "We'll respond within 24 hours",
     },
     {
@@ -259,7 +259,7 @@ export default function ContactPage() {
                       <Mail className="h-5 w-5 text-blue-600 mr-3 mt-1" />
                       <div>
                         <p className="font-semibold">Email</p>
-                        <p className="text-gray-600">hello@teckfirm.org</p>
+                        <p className="text-gray-600">management@teckfirm.org</p>
                       </div>
                     </div>
                     <div className="flex items-start">

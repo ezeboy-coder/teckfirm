@@ -8,7 +8,10 @@ import Navbar from "@/components/Navbar";
 export const metadata: Metadata = {
   title: "TeckFirm – Comprehensive Technology Solutions",
   description: "TeckFirm offers cutting-edge web development, mobile development, cloud solutions, and comprehensive technology services to transform your business.",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
+  icons: {
+    icon: "/icon.svg",
+    apple: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
