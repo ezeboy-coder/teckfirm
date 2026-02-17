@@ -33,7 +33,7 @@ export default function ContactPage() {
     {
       icon: <Phone className="h-6 w-6" />,
       title: "Phone",
-      details: "+1 (555) 123-4567",
+      details: "+2349038827785",
       description: "Monday to Friday, 9am to 6pm EST",
     },
     {
@@ -45,8 +45,8 @@ export default function ContactPage() {
     {
       icon: <MapPin className="h-6 w-6" />,
       title: "Office",
-      details: "123 Tech Street",
-      description: "San Francisco, CA 94105",
+      details: "No 3 Atbara St, Wuse, Abuja 904101, Federal Capital Territor",
+      description: "Abuja, Nigeria",
     },
   ];
 
@@ -252,7 +252,7 @@ export default function ContactPage() {
                       <Phone className="h-5 w-5 text-blue-600 mr-3 mt-1" />
                       <div>
                         <p className="font-semibold">Phone</p>
-                        <p className="text-gray-600">+1 (555) 123-4567</p>
+                        <p className="text-gray-600">+2349038827785</p>
                       </div>
                     </div>
                     <div className="flex items-start">
@@ -266,7 +266,10 @@ export default function ContactPage() {
                       <MapPin className="h-5 w-5 text-blue-600 mr-3 mt-1" />
                       <div>
                         <p className="font-semibold">Address</p>
-                        <p className="text-gray-600">123 Tech Street<br />San Francisco, CA 94105</p>
+                        <p className="text-gray-600">
+                          No 3 Atbara St, Wuse<br />
+                          Abuja 904101, Federal Capital Territor
+                        </p>
                       </div>
                     </div>
                     <div className="flex items-start">

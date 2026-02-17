@@ -1,9 +1,9 @@
 {
   "app": {
-    "[project]/src/app/page": [
+    "[project]/src/app/contact/page": [
       "static/media/Geist_Variable-s.p.f19e4721.woff2"
     ],
-    "[project]/src/app/solutions/page": [
+    "[project]/src/app/page": [
       "static/media/Geist_Variable-s.p.f19e4721.woff2"
     ]
   },

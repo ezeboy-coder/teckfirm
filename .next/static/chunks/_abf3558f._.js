@@ -47,7 +47,7 @@ function ContactPage() {
                 columnNumber: 13
             }, this),
             title: "Phone",
-            details: "+1 (555) 123-4567",
+            details: "+2349038827785",
             description: "Monday to Friday, 9am to 6pm EST"
         },
         {
@@ -71,8 +71,8 @@ function ContactPage() {
                 columnNumber: 13
             }, this),
             title: "Office",
-            details: "123 Tech Street",
-            description: "San Francisco, CA 94105"
+            details: "No 3 Atbara St, Wuse, Abuja 904101, Federal Capital Territor",
+            description: "Abuja, Nigeria"
         }
     ];
     const services = [
@@ -597,7 +597,7 @@ function ContactPage() {
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                 className: "text-gray-600",
-                                                                                children: "+1 (555) 123-4567"
+                                                                                children: "+2349038827785"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/app/contact/page.tsx",
                                                                                 lineNumber: 255,
@@ -678,13 +678,13 @@ function ContactPage() {
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                 className: "text-gray-600",
                                                                                 children: [
-                                                                                    "123 Tech Street",
+                                                                                    "No 3 Atbara St, Wuse",
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                                        lineNumber: 269,
-                                                                                        columnNumber: 69
+                                                                                        lineNumber: 270,
+                                                                                        columnNumber: 47
                                                                                     }, this),
-                                                                                    "San Francisco, CA 94105"
+                                                                                    "Abuja 904101, Federal Capital Territor"
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/app/contact/page.tsx",
@@ -710,7 +710,7 @@ function ContactPage() {
                                                                         className: "h-5 w-5 text-blue-600 mr-3 mt-1"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 273,
+                                                                        lineNumber: 276,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -720,7 +720,7 @@ function ContactPage() {
                                                                                 children: "Business Hours"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/app/contact/page.tsx",
-                                                                                lineNumber: 275,
+                                                                                lineNumber: 278,
                                                                                 columnNumber: 25
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -728,19 +728,19 @@ function ContactPage() {
                                                                                 children: "Mon-Fri: 9:00 AM - 6:00 PM EST"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/app/contact/page.tsx",
-                                                                                lineNumber: 276,
+                                                                                lineNumber: 279,
                                                                                 columnNumber: 25
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 274,
+                                                                        lineNumber: 277,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/contact/page.tsx",
-                                                                lineNumber: 272,
+                                                                lineNumber: 275,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
@@ -763,7 +763,7 @@ function ContactPage() {
                                                         children: "Frequently Asked Questions"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                        lineNumber: 284,
+                                                        lineNumber: 287,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -776,7 +776,7 @@ function ContactPage() {
                                                                         children: "How long does a typical project take?"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 287,
+                                                                        lineNumber: 290,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -784,13 +784,13 @@ function ContactPage() {
                                                                         children: "Project timelines vary based on complexity. Simple websites take 2-4 weeks, while complex applications can take 3-6 months."
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 288,
+                                                                        lineNumber: 291,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/contact/page.tsx",
-                                                                lineNumber: 286,
+                                                                lineNumber: 289,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -800,7 +800,7 @@ function ContactPage() {
                                                                         children: "Do you provide ongoing support?"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 294,
+                                                                        lineNumber: 297,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -808,13 +808,13 @@ function ContactPage() {
                                                                         children: "Yes, we offer comprehensive maintenance and support packages to keep your solutions running smoothly."
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 295,
+                                                                        lineNumber: 298,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/contact/page.tsx",
-                                                                lineNumber: 293,
+                                                                lineNumber: 296,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -824,7 +824,7 @@ function ContactPage() {
                                                                         children: "What technologies do you use?"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 301,
+                                                                        lineNumber: 304,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -832,25 +832,25 @@ function ContactPage() {
                                                                         children: "We work with modern technologies including React, Node.js, Python, AWS, and many others based on project requirements."
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                                        lineNumber: 302,
+                                                                        lineNumber: 305,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/contact/page.tsx",
-                                                                lineNumber: 300,
+                                                                lineNumber: 303,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/contact/page.tsx",
-                                                        lineNumber: 285,
+                                                        lineNumber: 288,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/contact/page.tsx",
-                                                lineNumber: 283,
+                                                lineNumber: 286,
                                                 columnNumber: 17
                                             }, this)
                                         ]
