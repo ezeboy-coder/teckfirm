@@ -63,26 +63,6 @@ export default function AboutPage() {
     }
   ];
 
-  const team = [
-    {
-      name: "Sarah Johnson",
-      role: "CEO & Founder",
-      description: "15+ years in technology leadership and business strategy.",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?auto=format&fit=crop&q=80"
-    },
-    {
-      name: "Michael Chen",
-      role: "CTO",
-      description: "Expert in full-stack development and cloud architecture.",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80"
-    },
-    {
-      name: "Emily Rodriguez",
-      role: "Lead Designer",
-      description: "UI/UX specialist with a passion for user-centered design.",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80"
-    }
-  ];
 
   return (
     <div className="min-h-screen">
@@ -240,48 +220,6 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-lg font-semibold mb-2">{service.title}</h3>
                 <p className="text-gray-600 text-sm">{service.description}</p>
-              </motion.div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Team Section */}
-      <section className="py-20 bg-white">
-        <div className="container mx-auto px-6">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-            className="text-center mb-16"
-          >
-            <h2 className="text-3xl font-bold mb-4">Meet Our Leadership Team</h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Our experienced leadership team brings together decades of expertise 
-              in technology, business strategy, and client success.
-            </p>
-          </motion.div>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {team.map((member, index) => (
-              <motion.div
-                key={member.name}
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.5, delay: index * 0.1 }}
-                className="text-center"
-              >
-                <div className="relative h-64 w-48 mx-auto mb-4">
-                  <Image
-                    src={member.image}
-                    alt={member.name}
-                    fill
-                    className="object-cover rounded-xl"
-                  />
-                </div>
-                <h3 className="text-xl font-semibold mb-2">{member.name}</h3>
-                <p className="text-blue-600 font-medium mb-2">{member.role}</p>
-                <p className="text-gray-600">{member.description}</p>
               </motion.div>
             ))}
           </div>
