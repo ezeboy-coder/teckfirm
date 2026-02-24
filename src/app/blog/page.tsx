@@ -15,57 +15,27 @@ export default function BlogPage() {
       date: "December 15, 2024",
       category: "Web Development",
       readTime: "5 min read",
-      slug: "web-development-trends-2024"
+      slug: "ai-revolution"
     },
     {
-      title: "Mobile App Development Best Practices",
-      excerpt: "Learn how to create mobile apps that users love with our comprehensive guide covering design, development, and deployment strategies.",
-      image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80",
+      title: "Building Strategic B2B Partnerships",
+      excerpt: "Learn how strategic partnerships can expand your business reach, improve reliability, and create mutual growth opportunities.",
+      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80",
       author: "Michael Chen",
       date: "December 10, 2024",
-      category: "Mobile Development",
-      readTime: "7 min read",
-      slug: "mobile-app-development-best-practices"
+      category: "Business Strategy",
+      readTime: "5 min read",
+      slug: "b2b-partnerships"
     },
     {
-      title: "Cloud Migration Strategies for Enterprises",
-      excerpt: "A complete guide to migrating your infrastructure to the cloud successfully, including planning, execution, and post-migration optimization.",
-      image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80",
+      title: "Choosing the Safest and Most Reliable Tech Infrastructure",
+      excerpt: "A comprehensive guide to evaluating and choosing reliable technology infrastructure for mission-critical business operations.",
+      image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80",
       author: "Emily Rodriguez",
       date: "December 5, 2024",
-      category: "Cloud Solutions",
+      category: "Infrastructure",
       readTime: "8 min read",
-      slug: "cloud-migration-strategies"
-    },
-    {
-      title: "Cybersecurity Best Practices for Small Businesses",
-      excerpt: "Essential security measures every small business should implement to protect their digital assets and customer data.",
-      image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80",
-      author: "David Kim",
-      date: "November 28, 2024",
-      category: "Cybersecurity",
-      readTime: "6 min read",
-      slug: "cybersecurity-small-business"
-    },
-    {
-      title: "Data Analytics: Turning Information into Insights",
-      excerpt: "How to leverage data analytics to make informed business decisions and gain competitive advantages in your industry.",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80",
-      author: "Lisa Wang",
-      date: "November 20, 2024",
-      category: "Data Analytics",
-      readTime: "9 min read",
-      slug: "data-analytics-insights"
-    },
-    {
-      title: "Process Automation: Streamlining Your Operations",
-      excerpt: "Discover how automation can improve efficiency, reduce costs, and eliminate manual errors in your business processes.",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80",
-      author: "Alex Thompson",
-      date: "November 15, 2024",
-      category: "Process Automation",
-      readTime: "6 min read",
-      slug: "process-automation-streamlining"
+      slug: "google-analytics"
     }
   ];
 

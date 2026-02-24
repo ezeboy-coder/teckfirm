@@ -45,7 +45,7 @@ export default function ContactPage() {
     {
       icon: <MapPin className="h-6 w-6" />,
       title: "Office",
-      details: "No 3 Atbara St, Wuse, Abuja 904101, Federal Capital Territor",
+      details: "No 3 Atbara St, Wuse, Abuja 904101, Federal Capital Territory",
       description: "Abuja, Nigeria",
     },
   ];
@@ -268,7 +268,7 @@ export default function ContactPage() {
                         <p className="font-semibold">Address</p>
                         <p className="text-gray-600">
                           No 3 Atbara St, Wuse<br />
-                          Abuja 904101, Federal Capital Territor
+                          Abuja 904101, Federal Capital Territory
                         </p>
                       </div>
                     </div>

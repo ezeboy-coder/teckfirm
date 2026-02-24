@@ -176,20 +176,20 @@ export default function AIRevolutionPage() {
               <h3 className="text-2xl font-bold mb-8">Related Articles</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div className="bg-gray-50 p-6 rounded-xl">
-                  <h4 className="text-lg font-semibold mb-3">Mobile App Development Best Practices</h4>
-                  <p className="text-gray-600 mb-4">Learn how to create mobile apps that users love with our comprehensive guide.</p>
+                  <h4 className="text-lg font-semibold mb-3">Building Strategic B2B Partnerships</h4>
+                  <p className="text-gray-600 mb-4">Learn how strategic partnerships can expand your business reach and create growth.</p>
                   <Link
-                    href="/blog/mobile-app-development-best-practices"
+                    href="/blog/b2b-partnerships"
                     className="text-blue-600 font-semibold inline-flex items-center hover:text-blue-700"
                   >
                     Read More <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl">
-                  <h4 className="text-lg font-semibold mb-3">Cloud Migration Strategies</h4>
-                  <p className="text-gray-600 mb-4">A complete guide to migrating your infrastructure to the cloud successfully.</p>
+                  <h4 className="text-lg font-semibold mb-3">Choosing Reliable Tech Infrastructure</h4>
+                  <p className="text-gray-600 mb-4">A comprehensive guide to evaluating reliable technology infrastructure for your business.</p>
                   <Link
-                    href="/blog/cloud-migration-strategies"
+                    href="/blog/google-analytics"
                     className="text-blue-600 font-semibold inline-flex items-center hover:text-blue-700"
                   >
                     Read More <ArrowRight className="ml-2 h-4 w-4" />

@@ -698,10 +698,6 @@ body {
   grid-column: span 1 / span 1;
 }
 
-.col-span-3 {
-  grid-column: span 3 / span 3;
-}
-
 .mx-3 {
   margin-left: .75rem;
   margin-right: .75rem;
@@ -842,10 +838,6 @@ body {
   height: 1.5rem;
 }
 
-.h-64 {
-  height: 16rem;
-}
-
 .h-8 {
   height: 2rem;
 }
@@ -884,10 +876,6 @@ body {
 
 .w-4 {
   width: 1rem;
-}
-
-.w-48 {
-  width: 12rem;
 }
 
 .w-5 {
@@ -980,10 +968,6 @@ body {
 
 .grid-cols-3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
-.grid-cols-4 {
-  grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
 .flex-col {

@@ -34,7 +34,7 @@ export default function RegisterPage() {
         >
           <div className="mb-8">
             <h1 className="text-4xl font-bold text-gray-900 mb-3">
-              Get Started with EnterpriseHub
+              Get Started with TeckFirm
             </h1>
             <p className="text-lg text-gray-600">
               Join thousands of businesses transforming their operations with our
@@ -240,7 +240,7 @@ export default function RegisterPage() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-white text-center"
           >
-            <h2 className="text-3xl font-bold mb-8">Why Choose EnterpriseHub?</h2>
+            <h2 className="text-3xl font-bold mb-8">Why Choose TeckFirm?</h2>
             <div className="space-y-6 text-lg text-blue-100">
               <p>✓ Comprehensive enterprise solutions</p>
               <p>✓ Advanced analytics and reporting</p>
