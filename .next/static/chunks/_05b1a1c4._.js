@@ -47,8 +47,8 @@ function ContactPage() {
                 columnNumber: 13
             }, this),
             title: "Phone",
-            details: "+2349038827785",
-            description: "Monday to Friday, 9am to 6pm EST"
+            details: "+447478073084",
+            description: "Monday to Friday, 9am to 6pm GMT"
         },
         {
             icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$5$2e$12_$40$babel$2b$core$40$7$2e$26$2e$0_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$lucide$2d$react$40$0$2e$468$2e$0_react$40$18$2e$3$2e$1$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$mail$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Mail$3e$__["Mail"], {
@@ -71,8 +71,8 @@ function ContactPage() {
                 columnNumber: 13
             }, this),
             title: "Office",
-            details: "No 3 Atbara St, Wuse, Abuja 904101, Federal Capital Territory",
-            description: "Abuja, Nigeria"
+            details: "47 Whitechapel High St, London E1 7QX, United Kingdom",
+            description: "London, UK"
         }
     ];
     const services = [
@@ -415,7 +415,7 @@ function ContactPage() {
                                                                                             phone: e.target.value
                                                                                         }),
                                                                                     className: "w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent",
-                                                                                    placeholder: "+1 (555) 000-0000"
+                                                                                    placeholder: "+44 7XXX XXXXXX"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/app/contact/page.tsx",
                                                                                     lineNumber: 183,
@@ -597,7 +597,7 @@ function ContactPage() {
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$5$2e$12_$40$babel$2b$core$40$7$2e$26$2e$0_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                 className: "text-gray-600",
-                                                                                children: "+2349038827785"
+                                                                                children: "+447478073084"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/app/contact/page.tsx",
                                                                                 lineNumber: 255,
@@ -678,13 +678,13 @@ function ContactPage() {
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$5$2e$12_$40$babel$2b$core$40$7$2e$26$2e$0_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                 className: "text-gray-600",
                                                                                 children: [
-                                                                                    "No 3 Atbara St, Wuse",
+                                                                                    "47 Whitechapel High St",
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$5$2e$12_$40$babel$2b$core$40$7$2e$26$2e$0_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                                         fileName: "[project]/src/app/contact/page.tsx",
                                                                                         lineNumber: 270,
-                                                                                        columnNumber: 47
+                                                                                        columnNumber: 49
                                                                                     }, this),
-                                                                                    "Abuja 904101, Federal Capital Territory"
+                                                                                    "London E1 7QX, United Kingdom"
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/app/contact/page.tsx",
@@ -725,7 +725,7 @@ function ContactPage() {
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$5$2e$12_$40$babel$2b$core$40$7$2e$26$2e$0_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                 className: "text-gray-600",
-                                                                                children: "Mon-Fri: 9:00 AM - 6:00 PM EST"
+                                                                                children: "Mon-Fri: 9:00 AM - 6:00 PM GMT"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/app/contact/page.tsx",
                                                                                 lineNumber: 279,

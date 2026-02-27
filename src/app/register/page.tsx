@@ -135,7 +135,7 @@ export default function RegisterPage() {
                       setFormData({ ...formData, phone: e.target.value })
                     }
                     className="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent"
-                    placeholder="+1 (555) 000-0000"
+                    placeholder="+44 7XXX XXXXXX"
                     required
                   />
                 </div>

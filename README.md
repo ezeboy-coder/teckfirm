@@ -205,7 +205,7 @@ Create a `.env.local` file for environment-specific configuration:
 
 ```env
 NEXT_PUBLIC_SITE_URL=https://teckfirm.org
-NEXT_PUBLIC_CONTACT_EMAIL=hello@teckfirm.org
+NEXT_PUBLIC_CONTACT_EMAIL=management@teckfirm.org
 ```
 
 ### Tailwind CSS
@@ -261,9 +261,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Website**: [teckfirm.org](https://teckfirm.org)
-- **Email**: hello@teckfirm.org
-- **Phone**: +1 (555) 123-4567
-- **Address**: 123 Tech Street, San Francisco, CA 94105
+- **Email**: management@teckfirm.org
+- **Phone**: +447478073084
+- **Address**: 47 Whitechapel High St, London E1 7QX, United Kingdom
 
 ## 🙏 Acknowledgments
 

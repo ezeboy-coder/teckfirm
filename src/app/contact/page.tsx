@@ -33,8 +33,8 @@ export default function ContactPage() {
     {
       icon: <Phone className="h-6 w-6" />,
       title: "Phone",
-      details: "+2349038827785",
-      description: "Monday to Friday, 9am to 6pm EST",
+      details: "+447478073084",
+      description: "Monday to Friday, 9am to 6pm GMT",
     },
     {
       icon: <Mail className="h-6 w-6" />,
@@ -45,8 +45,8 @@ export default function ContactPage() {
     {
       icon: <MapPin className="h-6 w-6" />,
       title: "Office",
-      details: "No 3 Atbara St, Wuse, Abuja 904101, Federal Capital Territory",
-      description: "Abuja, Nigeria",
+      details: "47 Whitechapel High St, London E1 7QX, United Kingdom",
+      description: "London, UK",
     },
   ];
 
@@ -187,7 +187,7 @@ export default function ContactPage() {
                               setFormData({ ...formData, phone: e.target.value })
                             }
                             className="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent"
-                            placeholder="+1 (555) 000-0000"
+                            placeholder="+44 7XXX XXXXXX"
                           />
                         </div>
                       </div>
@@ -252,7 +252,7 @@ export default function ContactPage() {
                       <Phone className="h-5 w-5 text-blue-600 mr-3 mt-1" />
                       <div>
                         <p className="font-semibold">Phone</p>
-                        <p className="text-gray-600">+2349038827785</p>
+                        <p className="text-gray-600">+447478073084</p>
                       </div>
                     </div>
                     <div className="flex items-start">
@@ -267,8 +267,8 @@ export default function ContactPage() {
                       <div>
                         <p className="font-semibold">Address</p>
                         <p className="text-gray-600">
-                          No 3 Atbara St, Wuse<br />
-                          Abuja 904101, Federal Capital Territory
+                          47 Whitechapel High St<br />
+                          London E1 7QX, United Kingdom
                         </p>
                       </div>
                     </div>
@@ -276,7 +276,7 @@ export default function ContactPage() {
                       <Clock className="h-5 w-5 text-blue-600 mr-3 mt-1" />
                       <div>
                         <p className="font-semibold">Business Hours</p>
-                        <p className="text-gray-600">Mon-Fri: 9:00 AM - 6:00 PM EST</p>
+                        <p className="text-gray-600">Mon-Fri: 9:00 AM - 6:00 PM GMT</p>
                       </div>
                     </div>
                   </div>
